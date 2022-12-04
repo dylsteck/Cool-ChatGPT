@@ -1,5 +1,6 @@
 # Cool-ChatGPT
 A list of the best tools built on top of [ChatGPT](https://chat.openai.com), the latest chat bot from [OpenAI](https://openai.com)
+
 List by [dylsteck](https://github.com/dylsteck) -- want to add a tool? Feel free to submit a PR!
 
 ### APIs
