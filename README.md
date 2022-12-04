@@ -17,6 +17,7 @@ List by [dylsteck](https://github.com/dylsteck) -- want to add a tool? Feel free
 ### Developer Tools
 - [mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper)
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)
+- [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast)
 
 ### Messaging Bots
 - [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt)
