@@ -22,3 +22,4 @@ List by [dylsteck](https://github.com/dylsteck) -- want to add a tool? Feel free
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)
 - [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot)
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
+- [Texts](https://texts.com) [ChatGPT integration](https://twitter.com/KishanBagaria/status/1599462850225135617)
